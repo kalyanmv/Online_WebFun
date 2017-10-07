@@ -1,0 +1,48 @@
+Hello there!
+Welcome to Coding Dojo's Online Bootcamp! 
+
+My name is Todd and I am the lead instructor for our Online Bootcamp. I wanted to connect with you to provide the next steps on your coding journey, as well as to provide a point of contact should you have any issues during the program.
+
+I, Todd Enders (tenders@codingdojo.com) will be your instructor for you upcoming class in Web Fundamentals. Your four week journey will touch on the basics of HTML, CSS, and JavaScript and how these work with each other to present a front-end experience. We will also be incorporating weekly algorithm challenges that will build up your understanding of your code functionality.
+
+To get ready for the beginning of the course please go through the following:
+Create a GitHub account - https://github.com/
+Create a MatterMost Account - https://dojo.news/signup_user_complete/?id=8r4mb48t5b8qic3udsctmzrkha and send me (tenders@codingdojo.com) an email with your username to be added to appropriate channels
+Read through the pre-bootcamp and Introduction section on https://learn.codingdojo.com for Monday's Orientation at 5pm PST.
+Read through the Git section in the platform.
+Install Atom - https://atom.io/ (This will be our text editor during your time at Coding Dojo)
+Go through the Coding Dojo Algorithm Platforms and work on getting all the algorithms down to 2 minutes or less. (Give it your best effort!)
+Install Zoom - https://zoom.us/ (This is how we host our lectures)
+
+Our first meeting will be an orientation on Monday, October 2nd at 5pm PDT.
+
+All lectures are hosted through Zoom and can be accessed with the link below. We will be using the same Zoom “room” for all lecture and meetings. 
+https://codingdojo.zoom.us/j/985958428
+
+Our Weekly Schedule for the month will be:
+
+Lectures - Tuesday and Thursday - 4pm PACIFIC TIME & 6pm PDT
+
+Algorithm Challenges
+Posted on MatterMost every Monday and solutions with walkthrough video the following Monday.
+
+Weekend Video
+Made available each Friday
+
+Each of the above sessions will be recorded and made available to you within ~1 day of it occurring.
+
+If you have any questions before the beginning of the first lecture please feel free to email me at tenders@codingdojo.com or if you have any admissions questions, please contact Sean Gabrus at sgabrus@codingdojo.com.
+
+Best of luck to you in the program!
+
+
+-- 
+
+Todd Enders
+Coding Dojo | Instructor
+(253) 604-8250
+tenders@codingdojo.com
+Seattle | Silicon Valley | Burbank 
+Chicago | Washington D.C. | Dallas 
+Tulsa | Online
+Codingdojo.com
